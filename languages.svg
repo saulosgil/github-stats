@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #DA5B0B; 
-  width: 59.624%;
+  width: 59.636%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 37.606%;
+  width: 37.594%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
   width: 1.088%;
@@ -188,7 +188,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Jupyter Notebook</span>
-  <span class="percent">59.62%</span>
+  <span class="percent">59.64%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -204,7 +204,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">HTML</span>
-  <span class="percent">37.61%</span>
+  <span class="percent">37.59%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
