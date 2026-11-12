@@ -134,19 +134,19 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #DA5B0B; 
-  width: 59.630%;
+  width: 59.628%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
-  width: 37.590%;
+  width: 37.589%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 1.088%;
+  width: 1.087%;
 " class="progress-item"></span><span style="
   background-color: #198CE7; 
   width: 0.749%;
 " class="progress-item"></span><span style="
   background-color: #e16737; 
-  width: 0.413%;
+  width: 0.417%;
 " class="progress-item"></span><span style="
   background-color: #c6538c; 
   width: 0.344%;
@@ -252,7 +252,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">MATLAB</span>
-  <span class="percent">0.41%</span>
+  <span class="percent">0.42%</span>
 </li>
 <li style="animation-delay: 900ms;">
   <svg 
